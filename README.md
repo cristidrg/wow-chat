@@ -43,8 +43,11 @@ Reward: 5 gold, [Horde Tabard]
 
 ## Spellbook
 **Hex** - 5 mana - Shrink images with the power of online compressors
+
 **Raise A PR** - 20 mana - To complete a quest, raise a pull request from a separate branch. And don't ever push directly to master, or your party will wipe.
+
 **Farsight** - 10 mana - Trigger Chrome Responsive mode to inspect breakpoints
+
 **Composition** - 50 mana - When cast, abstracts similar functionalities from files, reducing their count and improving code reusability
 
 ### Blizzard Patch News:
